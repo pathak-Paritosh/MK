@@ -4,3 +4,5 @@ x = 10
 y = 20
 swap(x, y)
 ```
+
+This is a **bold** text
