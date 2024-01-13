@@ -29,4 +29,4 @@ This is a ~crossed text~
 <br />
 
 
-![](https://github.com/pathak-Paritosh/MK/blob/main/MyPassVideo.gif)
+<img src="https://github.com/pathak-Paritosh/MK/blob/main/MyPassVideo.gif" alt="MyPass gif" widht=200 height=200 />
